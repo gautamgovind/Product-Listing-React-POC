@@ -13,7 +13,7 @@ module.exports = {
             directory: path.join(__dirname, 'public'),
           },
           compress: true,
-          port: 3000,
+          port: 5000,
     },
     devtool: 'inline-source-map',
     module: {
